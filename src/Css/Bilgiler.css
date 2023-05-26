@@ -1,0 +1,22 @@
+.Bilgiler {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 3rem;
+}
+
+.UlaşılanKişi {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.UlaşılanKişi img {
+  height: 7rem;
+  margin: 1rem auto;
+}
+
+.UlaşılanKişi p {
+  text-align: center;
+  font-weight: bold;
+}
